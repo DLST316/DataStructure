@@ -1,0 +1,1 @@
+/usr/bin/clang -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/PostfixCalculator.dir/2-2/TestCalculate.c.o" "CMakeFiles/PostfixCalculator.dir/2-2/Calculator.c.o" "CMakeFiles/PostfixCalculator.dir/2-2/lls.c.o" -o PostfixCalculator 

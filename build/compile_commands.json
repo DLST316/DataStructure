@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/gagaga/Documents/GIt/DataStructure/build",
+  "command": "/usr/bin/clang   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/PostfixCalculator.dir/2-2/TestCalculate.c.o -c /Users/gagaga/Documents/GIt/DataStructure/2-2/TestCalculate.c",
+  "file": "/Users/gagaga/Documents/GIt/DataStructure/2-2/TestCalculate.c",
+  "output": "CMakeFiles/PostfixCalculator.dir/2-2/TestCalculate.c.o"
+},
+{
+  "directory": "/Users/gagaga/Documents/GIt/DataStructure/build",
+  "command": "/usr/bin/clang   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/PostfixCalculator.dir/2-2/Calculator.c.o -c /Users/gagaga/Documents/GIt/DataStructure/2-2/Calculator.c",
+  "file": "/Users/gagaga/Documents/GIt/DataStructure/2-2/Calculator.c",
+  "output": "CMakeFiles/PostfixCalculator.dir/2-2/Calculator.c.o"
+},
+{
+  "directory": "/Users/gagaga/Documents/GIt/DataStructure/build",
+  "command": "/usr/bin/clang   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/PostfixCalculator.dir/2-2/lls.c.o -c /Users/gagaga/Documents/GIt/DataStructure/2-2/lls.c",
+  "file": "/Users/gagaga/Documents/GIt/DataStructure/2-2/lls.c",
+  "output": "CMakeFiles/PostfixCalculator.dir/2-2/lls.c.o"
+}
+]
