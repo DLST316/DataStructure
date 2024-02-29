@@ -511,89 +511,65 @@ ContinuousSubmit/fast:
 .PHONY : ContinuousSubmit/fast
 
 #=============================================================================
-# Target rules for targets named PostfixCalculator
+# Target rules for targets named CQ
 
 # Build rule for target.
-PostfixCalculator: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 PostfixCalculator
-.PHONY : PostfixCalculator
+CQ: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CQ
+.PHONY : CQ
 
 # fast build rule for target.
-PostfixCalculator/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/PostfixCalculator.dir/build.make CMakeFiles/PostfixCalculator.dir/build
-.PHONY : PostfixCalculator/fast
+CQ/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/build
+.PHONY : CQ/fast
 
-2-2/Calculator.o: 2-2/Calculator.c.o
-.PHONY : 2-2/Calculator.o
-
-# target to build an object file
-2-2/Calculator.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/PostfixCalculator.dir/build.make CMakeFiles/PostfixCalculator.dir/2-2/Calculator.c.o
-.PHONY : 2-2/Calculator.c.o
-
-2-2/Calculator.i: 2-2/Calculator.c.i
-.PHONY : 2-2/Calculator.i
-
-# target to preprocess a source file
-2-2/Calculator.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/PostfixCalculator.dir/build.make CMakeFiles/PostfixCalculator.dir/2-2/Calculator.c.i
-.PHONY : 2-2/Calculator.c.i
-
-2-2/Calculator.s: 2-2/Calculator.c.s
-.PHONY : 2-2/Calculator.s
-
-# target to generate assembly for a file
-2-2/Calculator.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/PostfixCalculator.dir/build.make CMakeFiles/PostfixCalculator.dir/2-2/Calculator.c.s
-.PHONY : 2-2/Calculator.c.s
-
-2-2/TestCalculate.o: 2-2/TestCalculate.c.o
-.PHONY : 2-2/TestCalculate.o
+3-2/LinkedQueue.o: 3-2/LinkedQueue.c.o
+.PHONY : 3-2/LinkedQueue.o
 
 # target to build an object file
-2-2/TestCalculate.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/PostfixCalculator.dir/build.make CMakeFiles/PostfixCalculator.dir/2-2/TestCalculate.c.o
-.PHONY : 2-2/TestCalculate.c.o
+3-2/LinkedQueue.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/3-2/LinkedQueue.c.o
+.PHONY : 3-2/LinkedQueue.c.o
 
-2-2/TestCalculate.i: 2-2/TestCalculate.c.i
-.PHONY : 2-2/TestCalculate.i
+3-2/LinkedQueue.i: 3-2/LinkedQueue.c.i
+.PHONY : 3-2/LinkedQueue.i
 
 # target to preprocess a source file
-2-2/TestCalculate.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/PostfixCalculator.dir/build.make CMakeFiles/PostfixCalculator.dir/2-2/TestCalculate.c.i
-.PHONY : 2-2/TestCalculate.c.i
+3-2/LinkedQueue.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/3-2/LinkedQueue.c.i
+.PHONY : 3-2/LinkedQueue.c.i
 
-2-2/TestCalculate.s: 2-2/TestCalculate.c.s
-.PHONY : 2-2/TestCalculate.s
+3-2/LinkedQueue.s: 3-2/LinkedQueue.c.s
+.PHONY : 3-2/LinkedQueue.s
 
 # target to generate assembly for a file
-2-2/TestCalculate.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/PostfixCalculator.dir/build.make CMakeFiles/PostfixCalculator.dir/2-2/TestCalculate.c.s
-.PHONY : 2-2/TestCalculate.c.s
+3-2/LinkedQueue.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/3-2/LinkedQueue.c.s
+.PHONY : 3-2/LinkedQueue.c.s
 
-2-2/lls.o: 2-2/lls.c.o
-.PHONY : 2-2/lls.o
+3-2/TestLinkedQueue.o: 3-2/TestLinkedQueue.c.o
+.PHONY : 3-2/TestLinkedQueue.o
 
 # target to build an object file
-2-2/lls.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/PostfixCalculator.dir/build.make CMakeFiles/PostfixCalculator.dir/2-2/lls.c.o
-.PHONY : 2-2/lls.c.o
+3-2/TestLinkedQueue.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/3-2/TestLinkedQueue.c.o
+.PHONY : 3-2/TestLinkedQueue.c.o
 
-2-2/lls.i: 2-2/lls.c.i
-.PHONY : 2-2/lls.i
+3-2/TestLinkedQueue.i: 3-2/TestLinkedQueue.c.i
+.PHONY : 3-2/TestLinkedQueue.i
 
 # target to preprocess a source file
-2-2/lls.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/PostfixCalculator.dir/build.make CMakeFiles/PostfixCalculator.dir/2-2/lls.c.i
-.PHONY : 2-2/lls.c.i
+3-2/TestLinkedQueue.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/3-2/TestLinkedQueue.c.i
+.PHONY : 3-2/TestLinkedQueue.c.i
 
-2-2/lls.s: 2-2/lls.c.s
-.PHONY : 2-2/lls.s
+3-2/TestLinkedQueue.s: 3-2/TestLinkedQueue.c.s
+.PHONY : 3-2/TestLinkedQueue.s
 
 # target to generate assembly for a file
-2-2/lls.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/PostfixCalculator.dir/build.make CMakeFiles/PostfixCalculator.dir/2-2/lls.c.s
-.PHONY : 2-2/lls.c.s
+3-2/TestLinkedQueue.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/3-2/TestLinkedQueue.c.s
+.PHONY : 3-2/TestLinkedQueue.c.s
 
 # Help Target
 help:
@@ -634,16 +610,13 @@ help:
 	@echo "... NightlySubmit"
 	@echo "... NightlyTest"
 	@echo "... NightlyUpdate"
-	@echo "... PostfixCalculator"
-	@echo "... 2-2/Calculator.o"
-	@echo "... 2-2/Calculator.i"
-	@echo "... 2-2/Calculator.s"
-	@echo "... 2-2/TestCalculate.o"
-	@echo "... 2-2/TestCalculate.i"
-	@echo "... 2-2/TestCalculate.s"
-	@echo "... 2-2/lls.o"
-	@echo "... 2-2/lls.i"
-	@echo "... 2-2/lls.s"
+	@echo "... CQ"
+	@echo "... 3-2/LinkedQueue.o"
+	@echo "... 3-2/LinkedQueue.i"
+	@echo "... 3-2/LinkedQueue.s"
+	@echo "... 3-2/TestLinkedQueue.o"
+	@echo "... 3-2/TestLinkedQueue.i"
+	@echo "... 3-2/TestLinkedQueue.s"
 .PHONY : help
 
 

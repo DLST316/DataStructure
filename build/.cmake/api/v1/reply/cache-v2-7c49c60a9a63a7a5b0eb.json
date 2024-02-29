@@ -783,7 +783,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "PostfixCalculator"
+			"value" : "CQ"
 		},
 		{
 			"name" : "CMAKE_PROJECT_VERSION",
@@ -1460,6 +1460,42 @@
 			],
 			"type" : "BOOL",
 			"value" : "OFF"
+		},
+		{
+			"name" : "CQ_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/gagaga/Documents/GIt/DataStructure/build"
+		},
+		{
+			"name" : "CQ_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "CQ_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/gagaga/Documents/GIt/DataStructure"
 		},
 		{
 			"name" : "CTEST_SUBMIT_RETRY_COUNT",

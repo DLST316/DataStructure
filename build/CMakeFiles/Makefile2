@@ -63,7 +63,7 @@ CMAKE_BINARY_DIR = /Users/gagaga/Documents/GIt/DataStructure/build
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles/PostfixCalculator.dir/all
+all: CMakeFiles/CQ.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -99,7 +99,7 @@ clean: CMakeFiles/ContinuousTest.dir/clean
 clean: CMakeFiles/ContinuousCoverage.dir/clean
 clean: CMakeFiles/ContinuousMemCheck.dir/clean
 clean: CMakeFiles/ContinuousSubmit.dir/clean
-clean: CMakeFiles/PostfixCalculator.dir/clean
+clean: CMakeFiles/CQ.dir/clean
 .PHONY : clean
 
 #=============================================================================
@@ -831,30 +831,30 @@ CMakeFiles/ContinuousSubmit.dir/clean:
 .PHONY : CMakeFiles/ContinuousSubmit.dir/clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/PostfixCalculator.dir
+# Target rules for target CMakeFiles/CQ.dir
 
 # All Build rule for target.
-CMakeFiles/PostfixCalculator.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/PostfixCalculator.dir/build.make CMakeFiles/PostfixCalculator.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/PostfixCalculator.dir/build.make CMakeFiles/PostfixCalculator.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/gagaga/Documents/GIt/DataStructure/build/CMakeFiles --progress-num=1,2,3,4 "Built target PostfixCalculator"
-.PHONY : CMakeFiles/PostfixCalculator.dir/all
+CMakeFiles/CQ.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/gagaga/Documents/GIt/DataStructure/build/CMakeFiles --progress-num=1,2,3 "Built target CQ"
+.PHONY : CMakeFiles/CQ.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/PostfixCalculator.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/gagaga/Documents/GIt/DataStructure/build/CMakeFiles 4
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/PostfixCalculator.dir/all
+CMakeFiles/CQ.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/gagaga/Documents/GIt/DataStructure/build/CMakeFiles 3
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/CQ.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/gagaga/Documents/GIt/DataStructure/build/CMakeFiles 0
-.PHONY : CMakeFiles/PostfixCalculator.dir/rule
+.PHONY : CMakeFiles/CQ.dir/rule
 
 # Convenience name for target.
-PostfixCalculator: CMakeFiles/PostfixCalculator.dir/rule
-.PHONY : PostfixCalculator
+CQ: CMakeFiles/CQ.dir/rule
+.PHONY : CQ
 
 # clean rule for target.
-CMakeFiles/PostfixCalculator.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/PostfixCalculator.dir/build.make CMakeFiles/PostfixCalculator.dir/clean
-.PHONY : CMakeFiles/PostfixCalculator.dir/clean
+CMakeFiles/CQ.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/clean
+.PHONY : CMakeFiles/CQ.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

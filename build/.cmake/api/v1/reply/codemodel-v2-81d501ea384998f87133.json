@@ -55,7 +55,7 @@
 					[
 						0
 					],
-					"name" : "PostfixCalculator",
+					"name" : "CQ",
 					"targetIndexes" : 
 					[
 						0,
@@ -92,6 +92,13 @@
 			],
 			"targets" : 
 			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CQ::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CQ-Debug-ace72d3470a6316957fa.json",
+					"name" : "CQ",
+					"projectIndex" : 0
+				},
 				{
 					"directoryIndex" : 0,
 					"id" : "Continuous::@6890427a1f51a3e7e1df",
@@ -286,13 +293,6 @@
 					"id" : "NightlyUpdate::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-NightlyUpdate-Debug-0f56ead7fa1d71b65387.json",
 					"name" : "NightlyUpdate",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
-					"id" : "PostfixCalculator::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-PostfixCalculator-Debug-70eaf15333b148c6b1bc.json",
-					"name" : "PostfixCalculator",
 					"projectIndex" : 0
 				}
 			]

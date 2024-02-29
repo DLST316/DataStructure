@@ -26,7 +26,7 @@
 /Users/gagaga/Documents/GIt/DataStructure/build/CMakeFiles/ContinuousCoverage.dir
 /Users/gagaga/Documents/GIt/DataStructure/build/CMakeFiles/ContinuousMemCheck.dir
 /Users/gagaga/Documents/GIt/DataStructure/build/CMakeFiles/ContinuousSubmit.dir
-/Users/gagaga/Documents/GIt/DataStructure/build/CMakeFiles/PostfixCalculator.dir
+/Users/gagaga/Documents/GIt/DataStructure/build/CMakeFiles/CQ.dir
 /Users/gagaga/Documents/GIt/DataStructure/build/CMakeFiles/package.dir
 /Users/gagaga/Documents/GIt/DataStructure/build/CMakeFiles/package_source.dir
 /Users/gagaga/Documents/GIt/DataStructure/build/CMakeFiles/test.dir
