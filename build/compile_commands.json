@@ -1,14 +1,14 @@
 [
 {
   "directory": "/Users/gagaga/Documents/GIt/DataStructure/build",
-  "command": "/usr/bin/clang   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/CQ.dir/4-3/ExpressionTree.c.o -c /Users/gagaga/Documents/GIt/DataStructure/4-3/ExpressionTree.c",
-  "file": "/Users/gagaga/Documents/GIt/DataStructure/4-3/ExpressionTree.c",
-  "output": "CMakeFiles/CQ.dir/4-3/ExpressionTree.c.o"
+  "command": "/usr/bin/clang   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/CQ.dir/4-4/DisjoingSet.c.o -c /Users/gagaga/Documents/GIt/DataStructure/4-4/DisjoingSet.c",
+  "file": "/Users/gagaga/Documents/GIt/DataStructure/4-4/DisjoingSet.c",
+  "output": "CMakeFiles/CQ.dir/4-4/DisjoingSet.c.o"
 },
 {
   "directory": "/Users/gagaga/Documents/GIt/DataStructure/build",
-  "command": "/usr/bin/clang   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/CQ.dir/4-3/TestET.c.o -c /Users/gagaga/Documents/GIt/DataStructure/4-3/TestET.c",
-  "file": "/Users/gagaga/Documents/GIt/DataStructure/4-3/TestET.c",
-  "output": "CMakeFiles/CQ.dir/4-3/TestET.c.o"
+  "command": "/usr/bin/clang   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/CQ.dir/4-4/DStest.c.o -c /Users/gagaga/Documents/GIt/DataStructure/4-4/DStest.c",
+  "file": "/Users/gagaga/Documents/GIt/DataStructure/4-4/DStest.c",
+  "output": "CMakeFiles/CQ.dir/4-4/DStest.c.o"
 }
 ]

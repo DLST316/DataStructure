@@ -523,53 +523,53 @@ CQ/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/build
 .PHONY : CQ/fast
 
-4-3/ExpressionTree.o: 4-3/ExpressionTree.c.o
-.PHONY : 4-3/ExpressionTree.o
+4-4/DStest.o: 4-4/DStest.c.o
+.PHONY : 4-4/DStest.o
 
 # target to build an object file
-4-3/ExpressionTree.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/4-3/ExpressionTree.c.o
-.PHONY : 4-3/ExpressionTree.c.o
+4-4/DStest.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/4-4/DStest.c.o
+.PHONY : 4-4/DStest.c.o
 
-4-3/ExpressionTree.i: 4-3/ExpressionTree.c.i
-.PHONY : 4-3/ExpressionTree.i
+4-4/DStest.i: 4-4/DStest.c.i
+.PHONY : 4-4/DStest.i
 
 # target to preprocess a source file
-4-3/ExpressionTree.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/4-3/ExpressionTree.c.i
-.PHONY : 4-3/ExpressionTree.c.i
+4-4/DStest.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/4-4/DStest.c.i
+.PHONY : 4-4/DStest.c.i
 
-4-3/ExpressionTree.s: 4-3/ExpressionTree.c.s
-.PHONY : 4-3/ExpressionTree.s
+4-4/DStest.s: 4-4/DStest.c.s
+.PHONY : 4-4/DStest.s
 
 # target to generate assembly for a file
-4-3/ExpressionTree.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/4-3/ExpressionTree.c.s
-.PHONY : 4-3/ExpressionTree.c.s
+4-4/DStest.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/4-4/DStest.c.s
+.PHONY : 4-4/DStest.c.s
 
-4-3/TestET.o: 4-3/TestET.c.o
-.PHONY : 4-3/TestET.o
+4-4/DisjoingSet.o: 4-4/DisjoingSet.c.o
+.PHONY : 4-4/DisjoingSet.o
 
 # target to build an object file
-4-3/TestET.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/4-3/TestET.c.o
-.PHONY : 4-3/TestET.c.o
+4-4/DisjoingSet.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/4-4/DisjoingSet.c.o
+.PHONY : 4-4/DisjoingSet.c.o
 
-4-3/TestET.i: 4-3/TestET.c.i
-.PHONY : 4-3/TestET.i
+4-4/DisjoingSet.i: 4-4/DisjoingSet.c.i
+.PHONY : 4-4/DisjoingSet.i
 
 # target to preprocess a source file
-4-3/TestET.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/4-3/TestET.c.i
-.PHONY : 4-3/TestET.c.i
+4-4/DisjoingSet.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/4-4/DisjoingSet.c.i
+.PHONY : 4-4/DisjoingSet.c.i
 
-4-3/TestET.s: 4-3/TestET.c.s
-.PHONY : 4-3/TestET.s
+4-4/DisjoingSet.s: 4-4/DisjoingSet.c.s
+.PHONY : 4-4/DisjoingSet.s
 
 # target to generate assembly for a file
-4-3/TestET.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/4-3/TestET.c.s
-.PHONY : 4-3/TestET.c.s
+4-4/DisjoingSet.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/4-4/DisjoingSet.c.s
+.PHONY : 4-4/DisjoingSet.c.s
 
 # Help Target
 help:
@@ -611,12 +611,12 @@ help:
 	@echo "... NightlyTest"
 	@echo "... NightlyUpdate"
 	@echo "... CQ"
-	@echo "... 4-3/ExpressionTree.o"
-	@echo "... 4-3/ExpressionTree.i"
-	@echo "... 4-3/ExpressionTree.s"
-	@echo "... 4-3/TestET.o"
-	@echo "... 4-3/TestET.i"
-	@echo "... 4-3/TestET.s"
+	@echo "... 4-4/DStest.o"
+	@echo "... 4-4/DStest.i"
+	@echo "... 4-4/DStest.s"
+	@echo "... 4-4/DisjoingSet.o"
+	@echo "... 4-4/DisjoingSet.i"
+	@echo "... 4-4/DisjoingSet.s"
 .PHONY : help
 
 

@@ -69,44 +69,44 @@ include CMakeFiles/CQ.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CQ.dir/flags.make
 
-CMakeFiles/CQ.dir/4-3/ExpressionTree.c.o: CMakeFiles/CQ.dir/flags.make
-CMakeFiles/CQ.dir/4-3/ExpressionTree.c.o: /Users/gagaga/Documents/GIt/DataStructure/4-3/ExpressionTree.c
-CMakeFiles/CQ.dir/4-3/ExpressionTree.c.o: CMakeFiles/CQ.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/gagaga/Documents/GIt/DataStructure/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/CQ.dir/4-3/ExpressionTree.c.o"
-	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/CQ.dir/4-3/ExpressionTree.c.o -MF CMakeFiles/CQ.dir/4-3/ExpressionTree.c.o.d -o CMakeFiles/CQ.dir/4-3/ExpressionTree.c.o -c /Users/gagaga/Documents/GIt/DataStructure/4-3/ExpressionTree.c
+CMakeFiles/CQ.dir/4-4/DisjoingSet.c.o: CMakeFiles/CQ.dir/flags.make
+CMakeFiles/CQ.dir/4-4/DisjoingSet.c.o: /Users/gagaga/Documents/GIt/DataStructure/4-4/DisjoingSet.c
+CMakeFiles/CQ.dir/4-4/DisjoingSet.c.o: CMakeFiles/CQ.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/gagaga/Documents/GIt/DataStructure/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/CQ.dir/4-4/DisjoingSet.c.o"
+	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/CQ.dir/4-4/DisjoingSet.c.o -MF CMakeFiles/CQ.dir/4-4/DisjoingSet.c.o.d -o CMakeFiles/CQ.dir/4-4/DisjoingSet.c.o -c /Users/gagaga/Documents/GIt/DataStructure/4-4/DisjoingSet.c
 
-CMakeFiles/CQ.dir/4-3/ExpressionTree.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/CQ.dir/4-3/ExpressionTree.c.i"
-	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/gagaga/Documents/GIt/DataStructure/4-3/ExpressionTree.c > CMakeFiles/CQ.dir/4-3/ExpressionTree.c.i
+CMakeFiles/CQ.dir/4-4/DisjoingSet.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/CQ.dir/4-4/DisjoingSet.c.i"
+	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/gagaga/Documents/GIt/DataStructure/4-4/DisjoingSet.c > CMakeFiles/CQ.dir/4-4/DisjoingSet.c.i
 
-CMakeFiles/CQ.dir/4-3/ExpressionTree.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/CQ.dir/4-3/ExpressionTree.c.s"
-	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/gagaga/Documents/GIt/DataStructure/4-3/ExpressionTree.c -o CMakeFiles/CQ.dir/4-3/ExpressionTree.c.s
+CMakeFiles/CQ.dir/4-4/DisjoingSet.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/CQ.dir/4-4/DisjoingSet.c.s"
+	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/gagaga/Documents/GIt/DataStructure/4-4/DisjoingSet.c -o CMakeFiles/CQ.dir/4-4/DisjoingSet.c.s
 
-CMakeFiles/CQ.dir/4-3/TestET.c.o: CMakeFiles/CQ.dir/flags.make
-CMakeFiles/CQ.dir/4-3/TestET.c.o: /Users/gagaga/Documents/GIt/DataStructure/4-3/TestET.c
-CMakeFiles/CQ.dir/4-3/TestET.c.o: CMakeFiles/CQ.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/gagaga/Documents/GIt/DataStructure/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/CQ.dir/4-3/TestET.c.o"
-	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/CQ.dir/4-3/TestET.c.o -MF CMakeFiles/CQ.dir/4-3/TestET.c.o.d -o CMakeFiles/CQ.dir/4-3/TestET.c.o -c /Users/gagaga/Documents/GIt/DataStructure/4-3/TestET.c
+CMakeFiles/CQ.dir/4-4/DStest.c.o: CMakeFiles/CQ.dir/flags.make
+CMakeFiles/CQ.dir/4-4/DStest.c.o: /Users/gagaga/Documents/GIt/DataStructure/4-4/DStest.c
+CMakeFiles/CQ.dir/4-4/DStest.c.o: CMakeFiles/CQ.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/gagaga/Documents/GIt/DataStructure/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/CQ.dir/4-4/DStest.c.o"
+	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/CQ.dir/4-4/DStest.c.o -MF CMakeFiles/CQ.dir/4-4/DStest.c.o.d -o CMakeFiles/CQ.dir/4-4/DStest.c.o -c /Users/gagaga/Documents/GIt/DataStructure/4-4/DStest.c
 
-CMakeFiles/CQ.dir/4-3/TestET.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/CQ.dir/4-3/TestET.c.i"
-	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/gagaga/Documents/GIt/DataStructure/4-3/TestET.c > CMakeFiles/CQ.dir/4-3/TestET.c.i
+CMakeFiles/CQ.dir/4-4/DStest.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/CQ.dir/4-4/DStest.c.i"
+	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/gagaga/Documents/GIt/DataStructure/4-4/DStest.c > CMakeFiles/CQ.dir/4-4/DStest.c.i
 
-CMakeFiles/CQ.dir/4-3/TestET.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/CQ.dir/4-3/TestET.c.s"
-	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/gagaga/Documents/GIt/DataStructure/4-3/TestET.c -o CMakeFiles/CQ.dir/4-3/TestET.c.s
+CMakeFiles/CQ.dir/4-4/DStest.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/CQ.dir/4-4/DStest.c.s"
+	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/gagaga/Documents/GIt/DataStructure/4-4/DStest.c -o CMakeFiles/CQ.dir/4-4/DStest.c.s
 
 # Object files for target CQ
 CQ_OBJECTS = \
-"CMakeFiles/CQ.dir/4-3/ExpressionTree.c.o" \
-"CMakeFiles/CQ.dir/4-3/TestET.c.o"
+"CMakeFiles/CQ.dir/4-4/DisjoingSet.c.o" \
+"CMakeFiles/CQ.dir/4-4/DStest.c.o"
 
 # External object files for target CQ
 CQ_EXTERNAL_OBJECTS =
 
-CQ: CMakeFiles/CQ.dir/4-3/ExpressionTree.c.o
-CQ: CMakeFiles/CQ.dir/4-3/TestET.c.o
+CQ: CMakeFiles/CQ.dir/4-4/DisjoingSet.c.o
+CQ: CMakeFiles/CQ.dir/4-4/DStest.c.o
 CQ: CMakeFiles/CQ.dir/build.make
 CQ: CMakeFiles/CQ.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/gagaga/Documents/GIt/DataStructure/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable CQ"

@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CQ.dir/4-3/ExpressionTree.c.o"
-  "CMakeFiles/CQ.dir/4-3/ExpressionTree.c.o.d"
-  "CMakeFiles/CQ.dir/4-3/TestET.c.o"
-  "CMakeFiles/CQ.dir/4-3/TestET.c.o.d"
+  "CMakeFiles/CQ.dir/4-4/DStest.c.o"
+  "CMakeFiles/CQ.dir/4-4/DStest.c.o.d"
+  "CMakeFiles/CQ.dir/4-4/DisjoingSet.c.o"
+  "CMakeFiles/CQ.dir/4-4/DisjoingSet.c.o.d"
   "CQ"
   "CQ.pdb"
 )
