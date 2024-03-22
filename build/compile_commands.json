@@ -1,14 +1,14 @@
 [
 {
   "directory": "/Users/gagaga/Documents/GIt/DataStructure/build",
-  "command": "/usr/bin/clang   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/CQ.dir/3-2/TestLinkedQueue.c.o -c /Users/gagaga/Documents/GIt/DataStructure/3-2/TestLinkedQueue.c",
-  "file": "/Users/gagaga/Documents/GIt/DataStructure/3-2/TestLinkedQueue.c",
-  "output": "CMakeFiles/CQ.dir/3-2/TestLinkedQueue.c.o"
+  "command": "/usr/bin/clang   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/CQ.dir/4-3/ExpressionTree.c.o -c /Users/gagaga/Documents/GIt/DataStructure/4-3/ExpressionTree.c",
+  "file": "/Users/gagaga/Documents/GIt/DataStructure/4-3/ExpressionTree.c",
+  "output": "CMakeFiles/CQ.dir/4-3/ExpressionTree.c.o"
 },
 {
   "directory": "/Users/gagaga/Documents/GIt/DataStructure/build",
-  "command": "/usr/bin/clang   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/CQ.dir/3-2/LinkedQueue.c.o -c /Users/gagaga/Documents/GIt/DataStructure/3-2/LinkedQueue.c",
-  "file": "/Users/gagaga/Documents/GIt/DataStructure/3-2/LinkedQueue.c",
-  "output": "CMakeFiles/CQ.dir/3-2/LinkedQueue.c.o"
+  "command": "/usr/bin/clang   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/CQ.dir/4-3/TestET.c.o -c /Users/gagaga/Documents/GIt/DataStructure/4-3/TestET.c",
+  "file": "/Users/gagaga/Documents/GIt/DataStructure/4-3/TestET.c",
+  "output": "CMakeFiles/CQ.dir/4-3/TestET.c.o"
 }
 ]

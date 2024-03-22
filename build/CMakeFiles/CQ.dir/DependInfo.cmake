@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/gagaga/Documents/GIt/DataStructure/3-2/LinkedQueue.c" "CMakeFiles/CQ.dir/3-2/LinkedQueue.c.o" "gcc" "CMakeFiles/CQ.dir/3-2/LinkedQueue.c.o.d"
-  "/Users/gagaga/Documents/GIt/DataStructure/3-2/TestLinkedQueue.c" "CMakeFiles/CQ.dir/3-2/TestLinkedQueue.c.o" "gcc" "CMakeFiles/CQ.dir/3-2/TestLinkedQueue.c.o.d"
+  "/Users/gagaga/Documents/GIt/DataStructure/4-3/ExpressionTree.c" "CMakeFiles/CQ.dir/4-3/ExpressionTree.c.o" "gcc" "CMakeFiles/CQ.dir/4-3/ExpressionTree.c.o.d"
+  "/Users/gagaga/Documents/GIt/DataStructure/4-3/TestET.c" "CMakeFiles/CQ.dir/4-3/TestET.c.o" "gcc" "CMakeFiles/CQ.dir/4-3/TestET.c.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -1,1 +1,1 @@
-/usr/bin/clang -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/CQ.dir/3-2/TestLinkedQueue.c.o" "CMakeFiles/CQ.dir/3-2/LinkedQueue.c.o" -o CQ 
+/usr/bin/clang -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/CQ.dir/4-3/ExpressionTree.c.o" "CMakeFiles/CQ.dir/4-3/TestET.c.o" -o CQ 
