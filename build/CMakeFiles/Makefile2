@@ -837,12 +837,12 @@ CMakeFiles/ContinuousSubmit.dir/clean:
 CMakeFiles/CQ.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/gagaga/Documents/GIt/DataStructure/build/CMakeFiles --progress-num=1,2,3 "Built target CQ"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/gagaga/Documents/GIt/DataStructure/build/CMakeFiles --progress-num=1,2 "Built target CQ"
 .PHONY : CMakeFiles/CQ.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/CQ.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/gagaga/Documents/GIt/DataStructure/build/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/gagaga/Documents/GIt/DataStructure/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/CQ.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/gagaga/Documents/GIt/DataStructure/build/CMakeFiles 0
 .PHONY : CMakeFiles/CQ.dir/rule

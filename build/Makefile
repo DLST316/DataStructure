@@ -523,53 +523,29 @@ CQ/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/build
 .PHONY : CQ/fast
 
-4-4/DStest.o: 4-4/DStest.c.o
-.PHONY : 4-4/DStest.o
+Sort/qsortApp.o: Sort/qsortApp.c.o
+.PHONY : Sort/qsortApp.o
 
 # target to build an object file
-4-4/DStest.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/4-4/DStest.c.o
-.PHONY : 4-4/DStest.c.o
+Sort/qsortApp.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/Sort/qsortApp.c.o
+.PHONY : Sort/qsortApp.c.o
 
-4-4/DStest.i: 4-4/DStest.c.i
-.PHONY : 4-4/DStest.i
-
-# target to preprocess a source file
-4-4/DStest.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/4-4/DStest.c.i
-.PHONY : 4-4/DStest.c.i
-
-4-4/DStest.s: 4-4/DStest.c.s
-.PHONY : 4-4/DStest.s
-
-# target to generate assembly for a file
-4-4/DStest.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/4-4/DStest.c.s
-.PHONY : 4-4/DStest.c.s
-
-4-4/DisjoingSet.o: 4-4/DisjoingSet.c.o
-.PHONY : 4-4/DisjoingSet.o
-
-# target to build an object file
-4-4/DisjoingSet.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/4-4/DisjoingSet.c.o
-.PHONY : 4-4/DisjoingSet.c.o
-
-4-4/DisjoingSet.i: 4-4/DisjoingSet.c.i
-.PHONY : 4-4/DisjoingSet.i
+Sort/qsortApp.i: Sort/qsortApp.c.i
+.PHONY : Sort/qsortApp.i
 
 # target to preprocess a source file
-4-4/DisjoingSet.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/4-4/DisjoingSet.c.i
-.PHONY : 4-4/DisjoingSet.c.i
+Sort/qsortApp.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/Sort/qsortApp.c.i
+.PHONY : Sort/qsortApp.c.i
 
-4-4/DisjoingSet.s: 4-4/DisjoingSet.c.s
-.PHONY : 4-4/DisjoingSet.s
+Sort/qsortApp.s: Sort/qsortApp.c.s
+.PHONY : Sort/qsortApp.s
 
 # target to generate assembly for a file
-4-4/DisjoingSet.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/4-4/DisjoingSet.c.s
-.PHONY : 4-4/DisjoingSet.c.s
+Sort/qsortApp.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/Sort/qsortApp.c.s
+.PHONY : Sort/qsortApp.c.s
 
 # Help Target
 help:
@@ -611,12 +587,9 @@ help:
 	@echo "... NightlyTest"
 	@echo "... NightlyUpdate"
 	@echo "... CQ"
-	@echo "... 4-4/DStest.o"
-	@echo "... 4-4/DStest.i"
-	@echo "... 4-4/DStest.s"
-	@echo "... 4-4/DisjoingSet.o"
-	@echo "... 4-4/DisjoingSet.i"
-	@echo "... 4-4/DisjoingSet.s"
+	@echo "... Sort/qsortApp.o"
+	@echo "... Sort/qsortApp.i"
+	@echo "... Sort/qsortApp.s"
 .PHONY : help
 
 
