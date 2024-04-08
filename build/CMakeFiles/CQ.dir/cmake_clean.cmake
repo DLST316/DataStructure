@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CQ.dir/Sort/qsortApp.c.o"
-  "CMakeFiles/CQ.dir/Sort/qsortApp.c.o.d"
+  "CMakeFiles/CQ.dir/Sort/5-5/BubbleSort_MK2.c.o"
+  "CMakeFiles/CQ.dir/Sort/5-5/BubbleSort_MK2.c.o.d"
   "CQ"
   "CQ.pdb"
 )

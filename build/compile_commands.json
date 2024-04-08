@@ -1,8 +1,8 @@
 [
 {
   "directory": "/Users/gagaga/Documents/GIt/DataStructure/build",
-  "command": "/usr/bin/clang   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/CQ.dir/Sort/qsortApp.c.o -c /Users/gagaga/Documents/GIt/DataStructure/Sort/qsortApp.c",
-  "file": "/Users/gagaga/Documents/GIt/DataStructure/Sort/qsortApp.c",
-  "output": "CMakeFiles/CQ.dir/Sort/qsortApp.c.o"
+  "command": "/usr/bin/clang   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/CQ.dir/Sort/5-5/BubbleSort_MK2.c.o -c /Users/gagaga/Documents/GIt/DataStructure/Sort/5-5/BubbleSort_MK2.c",
+  "file": "/Users/gagaga/Documents/GIt/DataStructure/Sort/5-5/BubbleSort_MK2.c",
+  "output": "CMakeFiles/CQ.dir/Sort/5-5/BubbleSort_MK2.c.o"
 }
 ]

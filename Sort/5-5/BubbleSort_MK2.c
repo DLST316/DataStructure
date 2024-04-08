@@ -5,17 +5,28 @@
 
 void BubbleSort(int DataSet[], int Length)
 {
-    int i = 0,j = 0, temp = 0;
-    for(i=0; i<Length-1;i++)
+    int i = 0, j = 0, temp = 0;
+    int isSorted = 0; // 정렬 여부를 나타내는 변수
+
+    for(i = 0; i < Length - 1; i++)
     {
-        for (j = 0;  j<Length-(i+1) ; j++)//뒤에서부터 정렬된 값은 제외
+        isSorted = 1; // 초기값을 1로 설정
+
+        for(j = 0; j < Length - (i + 1); j++)
         {
-            if(DataSet[j]>DataSet[j+1])//큰 값을 뒤로 보내기
+            if(DataSet[j] > DataSet[j + 1])
             {
-                temp = DataSet[j+1];
-                DataSet[j+1] = DataSet[j];
+                temp = DataSet[j + 1];
+                DataSet[j + 1] = DataSet[j];
                 DataSet[j] = temp;
+
+                isSorted = 0; // 정렬이 필요한 경우 0으로 설정
             }
+        }
+
+        if(isSorted == 1) // 정렬이 이미 완료된 경우
+        {
+            break; // 함수 종료
         }
     }
 }

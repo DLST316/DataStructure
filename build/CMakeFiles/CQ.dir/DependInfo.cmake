@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/gagaga/Documents/GIt/DataStructure/Sort/qsortApp.c" "CMakeFiles/CQ.dir/Sort/qsortApp.c.o" "gcc" "CMakeFiles/CQ.dir/Sort/qsortApp.c.o.d"
+  "/Users/gagaga/Documents/GIt/DataStructure/Sort/5-5/BubbleSort_MK2.c" "CMakeFiles/CQ.dir/Sort/5-5/BubbleSort_MK2.c.o" "gcc" "CMakeFiles/CQ.dir/Sort/5-5/BubbleSort_MK2.c.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

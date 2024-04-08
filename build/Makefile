@@ -523,29 +523,29 @@ CQ/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/build
 .PHONY : CQ/fast
 
-Sort/qsortApp.o: Sort/qsortApp.c.o
-.PHONY : Sort/qsortApp.o
+Sort/5-5/BubbleSort_MK2.o: Sort/5-5/BubbleSort_MK2.c.o
+.PHONY : Sort/5-5/BubbleSort_MK2.o
 
 # target to build an object file
-Sort/qsortApp.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/Sort/qsortApp.c.o
-.PHONY : Sort/qsortApp.c.o
+Sort/5-5/BubbleSort_MK2.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/Sort/5-5/BubbleSort_MK2.c.o
+.PHONY : Sort/5-5/BubbleSort_MK2.c.o
 
-Sort/qsortApp.i: Sort/qsortApp.c.i
-.PHONY : Sort/qsortApp.i
+Sort/5-5/BubbleSort_MK2.i: Sort/5-5/BubbleSort_MK2.c.i
+.PHONY : Sort/5-5/BubbleSort_MK2.i
 
 # target to preprocess a source file
-Sort/qsortApp.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/Sort/qsortApp.c.i
-.PHONY : Sort/qsortApp.c.i
+Sort/5-5/BubbleSort_MK2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/Sort/5-5/BubbleSort_MK2.c.i
+.PHONY : Sort/5-5/BubbleSort_MK2.c.i
 
-Sort/qsortApp.s: Sort/qsortApp.c.s
-.PHONY : Sort/qsortApp.s
+Sort/5-5/BubbleSort_MK2.s: Sort/5-5/BubbleSort_MK2.c.s
+.PHONY : Sort/5-5/BubbleSort_MK2.s
 
 # target to generate assembly for a file
-Sort/qsortApp.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/Sort/qsortApp.c.s
-.PHONY : Sort/qsortApp.c.s
+Sort/5-5/BubbleSort_MK2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CQ.dir/build.make CMakeFiles/CQ.dir/Sort/5-5/BubbleSort_MK2.c.s
+.PHONY : Sort/5-5/BubbleSort_MK2.c.s
 
 # Help Target
 help:
@@ -587,9 +587,9 @@ help:
 	@echo "... NightlyTest"
 	@echo "... NightlyUpdate"
 	@echo "... CQ"
-	@echo "... Sort/qsortApp.o"
-	@echo "... Sort/qsortApp.i"
-	@echo "... Sort/qsortApp.s"
+	@echo "... Sort/5-5/BubbleSort_MK2.o"
+	@echo "... Sort/5-5/BubbleSort_MK2.i"
+	@echo "... Sort/5-5/BubbleSort_MK2.s"
 .PHONY : help
 
 

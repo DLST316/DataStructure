@@ -69,28 +69,28 @@ include CMakeFiles/CQ.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CQ.dir/flags.make
 
-CMakeFiles/CQ.dir/Sort/qsortApp.c.o: CMakeFiles/CQ.dir/flags.make
-CMakeFiles/CQ.dir/Sort/qsortApp.c.o: /Users/gagaga/Documents/GIt/DataStructure/Sort/qsortApp.c
-CMakeFiles/CQ.dir/Sort/qsortApp.c.o: CMakeFiles/CQ.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/gagaga/Documents/GIt/DataStructure/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/CQ.dir/Sort/qsortApp.c.o"
-	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/CQ.dir/Sort/qsortApp.c.o -MF CMakeFiles/CQ.dir/Sort/qsortApp.c.o.d -o CMakeFiles/CQ.dir/Sort/qsortApp.c.o -c /Users/gagaga/Documents/GIt/DataStructure/Sort/qsortApp.c
+CMakeFiles/CQ.dir/Sort/5-5/BubbleSort_MK2.c.o: CMakeFiles/CQ.dir/flags.make
+CMakeFiles/CQ.dir/Sort/5-5/BubbleSort_MK2.c.o: /Users/gagaga/Documents/GIt/DataStructure/Sort/5-5/BubbleSort_MK2.c
+CMakeFiles/CQ.dir/Sort/5-5/BubbleSort_MK2.c.o: CMakeFiles/CQ.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/gagaga/Documents/GIt/DataStructure/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/CQ.dir/Sort/5-5/BubbleSort_MK2.c.o"
+	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/CQ.dir/Sort/5-5/BubbleSort_MK2.c.o -MF CMakeFiles/CQ.dir/Sort/5-5/BubbleSort_MK2.c.o.d -o CMakeFiles/CQ.dir/Sort/5-5/BubbleSort_MK2.c.o -c /Users/gagaga/Documents/GIt/DataStructure/Sort/5-5/BubbleSort_MK2.c
 
-CMakeFiles/CQ.dir/Sort/qsortApp.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/CQ.dir/Sort/qsortApp.c.i"
-	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/gagaga/Documents/GIt/DataStructure/Sort/qsortApp.c > CMakeFiles/CQ.dir/Sort/qsortApp.c.i
+CMakeFiles/CQ.dir/Sort/5-5/BubbleSort_MK2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/CQ.dir/Sort/5-5/BubbleSort_MK2.c.i"
+	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/gagaga/Documents/GIt/DataStructure/Sort/5-5/BubbleSort_MK2.c > CMakeFiles/CQ.dir/Sort/5-5/BubbleSort_MK2.c.i
 
-CMakeFiles/CQ.dir/Sort/qsortApp.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/CQ.dir/Sort/qsortApp.c.s"
-	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/gagaga/Documents/GIt/DataStructure/Sort/qsortApp.c -o CMakeFiles/CQ.dir/Sort/qsortApp.c.s
+CMakeFiles/CQ.dir/Sort/5-5/BubbleSort_MK2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/CQ.dir/Sort/5-5/BubbleSort_MK2.c.s"
+	/usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/gagaga/Documents/GIt/DataStructure/Sort/5-5/BubbleSort_MK2.c -o CMakeFiles/CQ.dir/Sort/5-5/BubbleSort_MK2.c.s
 
 # Object files for target CQ
 CQ_OBJECTS = \
-"CMakeFiles/CQ.dir/Sort/qsortApp.c.o"
+"CMakeFiles/CQ.dir/Sort/5-5/BubbleSort_MK2.c.o"
 
 # External object files for target CQ
 CQ_EXTERNAL_OBJECTS =
 
-CQ: CMakeFiles/CQ.dir/Sort/qsortApp.c.o
+CQ: CMakeFiles/CQ.dir/Sort/5-5/BubbleSort_MK2.c.o
 CQ: CMakeFiles/CQ.dir/build.make
 CQ: CMakeFiles/CQ.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/gagaga/Documents/GIt/DataStructure/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable CQ"
